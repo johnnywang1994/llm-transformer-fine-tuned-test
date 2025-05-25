@@ -1,6 +1,6 @@
 # Fine tuned Deepseek-r1 1.5B with Lora
 
-This is an experimental repo for testing purpose. May not work as expected
+This is an experimental repo for testing purpose. May not work as expected.
 
 ## Install
 - install pyenv virtualenv dependencies
